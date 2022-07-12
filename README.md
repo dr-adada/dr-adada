@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Abdul-Rahim Adada
+## Learning Python
 
 <!--
 **dr-adada/dr-adada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
