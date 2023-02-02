@@ -1,6 +1,6 @@
 ![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
 ### Hi there 👋 I'm Abdul-Rahim Adada
-## Data Scientist, front-end web developer, student of Python programming
+## Data Scientist, Loves Python Programming, Studying Web Development, 
 
 <!--
 **dr-adada/dr-adada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
